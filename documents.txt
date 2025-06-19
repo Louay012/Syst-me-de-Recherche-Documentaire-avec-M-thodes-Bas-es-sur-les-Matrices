@@ -1,0 +1,5 @@
+pizza pasta lasagna
+apple banana orange
+laptop computer processor
+dog cat rabbit
+python java c++

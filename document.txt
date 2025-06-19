@@ -1,0 +1,3 @@
+ChatGPT est un modèle de langage.
+L'intelligence artificielle transforme le monde.
+Python est utilisé pour le traitement de données.
